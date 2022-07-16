@@ -17,6 +17,8 @@
 
  Technology was always huge part of my life, my main sorce of entertainment and study, always loved to play games, to learn about new (and random) things, interact with people around the world... and today it's no diffent!
  
+ I'm studying to become a Data Analyst at Resilia Educação, a 6 month Data Analytics bootcamp that shows every step of the way to become a Data Analyst Junior.
+
  
 ##### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasCanella&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
@@ -39,7 +41,7 @@
 
 ###### *Some of my most recently projects:*
 
-__Resilia_Projects__ - Resilia is a 6 month Data Analytics bootcamp that shows every step of the way to become a Data Analyst Junior. it's divided in 5 modules, in each module, besides all the smaller projects along the way, it's required a final project that is done in squads. You can find all the projects I participated right below:
+__Resilia_Projects__ - Resilia's course is divided in 5 modules, in each module, besides all the smaller projects along the way, it's required a final project that is done in squads. You can find all the projects I participated right below:
 
 1. [Project 1](https://github.com/lucasCanella/Projeto_1_Resilia) - What was developed: *Time and Project management, teamwork, Algorithm, Computational thinking, repetition and conditional statements, functions, recursive functions and modules.*
 2. *to be done*
