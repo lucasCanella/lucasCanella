@@ -1,6 +1,6 @@
+
 # <center>  Hi, There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></a> </center> 
 
-* * *
 
 ##### <center>No matter when, no matter where, i'm </a> </center> 
 
@@ -8,6 +8,10 @@
 
 ##### <center>Everyday! </a> </center> 
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;me:</b></summary>
@@ -15,14 +19,10 @@
 
 ##### Hey! I'm Lucas! A 21 years old Data Analyst Jr. aspirant from Brasil. I love puzzles and riddles since I was a kid.
 
- Technology was always huge part of my life, my main sorce of entertainment and study, always loved to play games, to learn about new (and random) things, interact with people around the world... and today it's no diffent!
+ Technology was always huge part of my life, my main sorce of entertainment and study, always loved to play games, learn about new (and random) things, interact with people around the world... and today it's no diffent!
  
- I'm studying to become a Data Analyst at Resilia Educação, a 6 month Data Analytics bootcamp that shows every step of the way to become a Data Analyst Junior.
-
+ Now, i'm studying to become a Data Analyst at Resilia Educação, a 6 month Data Analytics bootcamp that shows every step of the way to become a Data Analyst Junior.
  
-##### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucasCanella&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
  ###### 🤡 random things about me:
  
 
@@ -63,6 +63,7 @@ __Resilia_Projects__ - Resilia's course is divided in 5 modules, in each module,
   <img src="https://docs.codewars.com/logo.svg" width="40" height="40" 
 /> 
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="90" height="40" /> 
+
 </details> 
 <br/>
 
@@ -78,10 +79,14 @@ __Resilia_Projects__ - Resilia's course is divided in 5 modules, in each module,
 
 </details> 
 
-<img style = "float" align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="325" /> 
-
 <br/><br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasCanella&layout=compact&theme=transparent" width="49%" >
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasCanella&theme=transparent" width="50%" > 
+
+
+
+<center>  <img src="http://github-readme-streak-stats.herokuapp.com?user=lucasCanella&theme=&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" width="80%" > 
 
 ---
 ##### <center> Contact me! </a> </center> 
