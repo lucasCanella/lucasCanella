@@ -1,15 +1,27 @@
+<p align="center">
+    <font size="5"> Hi, There! </font>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></a> 
+</p>
+ 
+##
 
-# <center>  Hi, There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></a> </center> 
+<p align="center">
+    No matter when, no matter where, i'm
+</p>
 
+   
 
-##### <center>No matter when, no matter where, i'm </a> </center> 
+<p align="center">
+   
+  <img src="https://media.giphy.com/media/fL3YyjhMkOUqPOJ7Xn/giphy.gif" width="500" height="" />
+  
+</p>
 
-<center> <img src="https://media.giphy.com/media/fL3YyjhMkOUqPOJ7Xn/giphy.gif" width="500" height="" />  </center> 
-
-##### <center>Everyday! </a> </center> 
----
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+    Everyday!
+</p>
+    
+    
+##
 
 
 
@@ -82,21 +94,22 @@ __Resilia_Projects__ - Resilia's course is divided in 5 modules, in each module,
 <br/>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasCanella&layout=compact&theme=transparent" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasCanella&theme=transparent" width="42%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasCanella&layout=compact&theme=transparent" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasCanella&theme=transparent" width="45%" /> 
 </p>
 
 
 <center>  <img src="http://github-readme-streak-stats.herokuapp.com?user=lucasCanella&theme=&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%" > 
 
 
----
-##### <center> Contact me! </a> </center> 
----
-<center>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/lucascanella-dados/">
-    <img  src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="" height="" /> 
-<div id="badges">
-  <a href="mailto:lucas.fariascanella@gmail.com?subject=Contact-via-GitHub">
-    <img  src="https://img.shields.io/badge/Email-red?logo=Gmail&logoColor=white" width="" height="" /></center> 
+##
+<p align="center">
+    Contact me!
+</p>
+
+##
+<div align="center">
+
+  <a href="">[![example1](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascanella-dados)</a>
+  <a href="">[![example2](https://img.shields.io/badge/Email-red?logo=Gmail&logoColor=white)](mailto:lucas.fariascanella@gmail.com?subject=Contact-via-GitHub)</a>
+</div>
