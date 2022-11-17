@@ -81,12 +81,10 @@ __Resilia_Projects__ - Resilia's course is divided in 5 modules, in each module,
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasCanella&layout=compact&theme=transparent" width="49%" >
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasCanella&theme=transparent" width="50%" > 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasCanella&layout=compact&theme=transparent" width="42%" >
 
-
-
-<center>  <img src="http://github-readme-streak-stats.herokuapp.com?user=lucasCanella&theme=&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" width="80%" > 
+<center>  <img src="http://github-readme-streak-stats.herokuapp.com?user=lucasCanella&theme=&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%" > 
 
 ---
 ##### <center> Contact me! </a> </center> 
