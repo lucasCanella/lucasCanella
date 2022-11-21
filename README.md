@@ -96,7 +96,16 @@ __Resilia_Projects__ - Resilia's course is divided in 5 modules, in each module,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasCanella&layout=compact)](https://github.com/lucasCanella)
 
 <!--START_SECTION:waka-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasCanella)](https://github.com/lucasCanella)
+
+```text
+Python     10 hrs 28 mins  █████████████████▓░░░░░░░   70.81 %
+Markdown   3 hrs 48 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.76 %
+Java       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Text       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+CSV        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+SQL        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+```
+
 <!--END_SECTION:waka-->
 
 
