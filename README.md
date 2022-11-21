@@ -93,10 +93,13 @@ __Resilia_Projects__ - Resilia's course is divided in 5 modules, in each module,
 
 <br/>
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasCanella&layout=compact&theme=transparent" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasCanella&theme=transparent" width="45%" /> 
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasCanella&layout=compact)](https://github.com/lucasCanella)
+
+<!--START_SECTION:waka-->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasCanella)](https://github.com/lucasCanella)
+<!--END_SECTION:waka-->
+
+
 
 
 <center>  <img src="http://github-readme-streak-stats.herokuapp.com?user=lucasCanella&theme=&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%" > 
