@@ -98,16 +98,16 @@ __Resilia_Projects__ - Resilia's course is divided in 5 modules, in each module,
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 November 2022 - To: 26 November 2022
+From: 20 November 2022 - To: 27 November 2022
 
-Total Time: 6 hrs 18 mins
+Total Time: 1 hr 20 mins
 
-Python     3 hrs 18 mins   >>>>>>>>>>>>>------------   52.58 %
-Markdown   2 hrs 27 mins   >>>>>>>>>>---------------   39.01 %
-Java       21 mins         >------------------------   05.65 %
-SQL        3 mins          -------------------------   01.04 %
-Text       3 mins          -------------------------   00.99 %
-CSV        2 mins          -------------------------   00.60 %
+Python     47 mins         >>>>>>>>>>>>>>>----------   58.67 %
+Java       21 mins         >>>>>>>------------------   26.57 %
+Markdown   7 mins          >>-----------------------   09.04 %
+SQL        2 mins          >------------------------   02.72 %
+CSV        2 mins          >------------------------   02.72 %
+Other      0 secs          -------------------------   00.27 %
 ```
 
 <!--END_SECTION:waka-->
