@@ -98,12 +98,12 @@ __Resilia_Projects__ - Resilia's course is divided in 5 modules, in each module,
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 February 2023 - To: 19 February 2023
+From: 13 February 2023 - To: 20 February 2023
 
-Total Time: 1 hr 41 mins
+Total Time: 1 hr 36 mins
 
-HTML     1 hr 41 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.76 %
-Python   0 secs          -------------------------   00.17 %
+HTML     1 hr 35 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   99.75 %
+Python   0 secs          -------------------------   00.18 %
 Other    0 secs          -------------------------   00.07 %
 ```
 
