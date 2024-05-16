@@ -1,8 +1,8 @@
 ## Sobre 
-- Estudante de Tecnologia em Ciência de Dados na UFMS
-- Experiência com Python, R, SQL, HTML, CSS, JavaScript
-- entusiasta de data science e machine learning
-- Atleta de jiu-jitsu e enxadrista
+- 🎓 Estudante de Tecnologia em Ciência de Dados na UFMS
+- 💻 Experiência com Python, R, SQL, HTML, CSS, JavaScript
+- 📊 Entusiasta de data science e machine learning
+- 🥋 Atleta de jiu-jitsu e ♟️ enxadrista
 
 ## Tecnologias
 
